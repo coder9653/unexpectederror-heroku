@@ -20,7 +20,7 @@ echo '<!DOCTYPE html>
     <ol>
         <li>
             <h3>Mismatched Brackets and Parentheses:</h3>
-            <p>One of the most common reasons for encountering the <a href="<?php echo 'URL: https://unexpectedendoffile.com/unexpected-end-of-file-error-bash-script-shell-syntax-error/'; ?>"> bash Unexpected end of file"</a>  error is unmatched brackets or parentheses in your script. When opening and closing brackets do not match correctly, the shell interpreter fails to identify the correct script block, resulting in an abrupt end.</p>
+            <p>One of the most common reasons for encountering the <a href="https://unexpectedendoffile.com/unexpected-end-of-file-error-bash-script-shell-syntax-error/';"> bash Unexpected end of file"</a>  error is unmatched brackets or parentheses in your script. When opening and closing brackets do not match correctly, the shell interpreter fails to identify the correct script block, resulting in an abrupt end.</p>
             <p>To address this issue, carefully inspect your script for any unbalanced brackets or parentheses and make sure they are correctly paired.</p>
         </li>
 
